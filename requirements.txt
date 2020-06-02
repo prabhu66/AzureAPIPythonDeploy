@@ -1,1 +1,5 @@
-linalg==0.4.9
+pandas
+Flask
+linalg
+scipy
+numpy
